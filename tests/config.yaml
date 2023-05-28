@@ -1,0 +1,7 @@
+ZIP_CODE_TELEGRAM_TOKEN: 1111111111:AAAAaaaaaa-aaaaaaaaaaaA_aaAAAaaaa
+ZIP_CODE_PGUSER: postgres
+ZIP_CODE_PGPASSWORD: postgres
+ZIP_CODE_PGHOST: 127.0.0.1
+ZIP_CODE_PGPORT: 5432
+ZIP_CODE_PGDATABASE: zip_code_test_db
+ZIP_CODE_API_TOKEN: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa
